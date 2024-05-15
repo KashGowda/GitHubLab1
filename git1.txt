@@ -3,4 +3,5 @@ int main()
 {
 printf("Enter your name:");
 printf("Enter your name again:");
+printf("Enter the dat agagin Lab2");
 }
